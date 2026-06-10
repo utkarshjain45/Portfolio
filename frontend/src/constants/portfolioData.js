@@ -90,7 +90,7 @@ export const PROJECTS = [
     Title: "Interactive Developer Portfolio",
     Description: "A modern, responsive portfolio website showcasing professional experience, software projects, certifications, and developer achievements. Features a dynamic comment section and contact portal powered by a local Spring Boot service and Cloudinary.",
     Img: PortfolioImg,
-    Link: "https://github.com/utkarshjain45/Portfolio",
+    Link: "https://portfolio-frontend-theta-lac.vercel.app/",
     Github: "https://github.com/utkarshjain45/Portfolio",
     TechStack: ["React", "Spring Boot", "PostgreSQL", "Cloudinary", "Tailwind CSS", "AOS", "SweetAlert2"],
     Features: [
