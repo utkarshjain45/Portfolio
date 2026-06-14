@@ -142,9 +142,9 @@ export const CERTIFICATES = [
 ];
 
 export const LEETCODE = {
-  rating: 1743,
+  rating: 1763,
   solved: "450+",
-  contests: 51,
+  contests: 52,
   leetcodeUrl: "https://leetcode.com/u/utkarshjain45",
   achievements: [
     "Solved 450+ complex Data Structures and Algorithms problems on LeetCode.",
